@@ -4,6 +4,10 @@
 
 This project implements a Bluetooth Low Energy (BLE) presentation remote using an ESP32 microcontroller. The device acts as a wireless HID (Human Interface Device) keyboard that can send left and right arrow key presses to control presentation slides on paired devices.
 
+## Schematic
+
+![Schematic Setup](./assets/schematic.jpeg)
+
 ## Features
 
 - **BLE HID Device**: Emulates a keyboard using Bluetooth Low Energy
